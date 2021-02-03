@@ -1,2 +1,3 @@
 # react-script-static-unstable-build
-A package to build a static development version of your app leveraging react-scripts
+
+A package that will add a custom command (`build-static-development`) to compile a static **development** version of your app. **DO NOT**, I repeat, **DO NOT** publish the compiled assets into the open web unless you **really** know what and why you're doing!
